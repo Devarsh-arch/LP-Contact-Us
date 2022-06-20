@@ -1,0 +1,45 @@
+body{
+	border-right: 7px solid chartreuse;
+	border-left: 5px solid indianred;
+	border-bottom: 5px solid royalblue;
+	border-top: 5px solid goldenrod;
+	border-radius: 5px;
+	background-color: whitesmoke;
+	text-align: center;
+}
+
+.TTT{
+	background-color: transparent;
+	height: 100px;
+	width: auto;
+	box-shadow: 5px 5px 5px gray;
+	border-radius: 5px;
+	margin-bottom: 0px;
+}
+
+#la_pinoz_logo{
+	margin-right: 550px;
+}
+
+.TheAnchors{
+	margin-left: 10px;
+	font-size: 17px;
+	color: black;
+}
+
+.heading{
+	text-align: center;
+}
+
+.TheIcons{
+	height: 100px;
+	width: 100px;
+	margin: 20px;
+}
+
+.AlsoTheOptions{
+	margin: 20px;
+	border: 5px solid black;
+	border-radius: 10px;
+	box-shadow: 5px 5px 5px grey;
+}
